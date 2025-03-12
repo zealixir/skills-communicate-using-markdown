@@ -10,6 +10,6 @@ I made changes in this for compliance
 $hello = "hello world"
 ```
 
-- [] Study
-- [] Learn
-- [] Enjoy
+- [ ] Study
+- [ ] Learn
+- [ ] Enjoy
