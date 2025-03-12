@@ -9,3 +9,7 @@ I made changes in this for compliance
 ``` PHP
 $hello = "hello world"
 ```
+
+- [] Study
+- [] Learn
+- [] Enjoy
